@@ -16,7 +16,7 @@ Tarefas](https://github.com/LauroAranha/Gerenciador-de-Tarefas)
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=LauroAranha&show_icons=true&theme=github_dark">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroAranha&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroAranha&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
 </div>
     
 <div style="display: inline_block"><br>
