@@ -1,4 +1,5 @@
 ## Olá! Meu nome é Lauro Aranha 👋 - Estudante de ADS e programador
+<img src="https://cdn.discordapp.com/attachments/425724691680854016/964941027666440252/unknown.png">
 -⛏️ Atualmente estou trabalhando no projeto: [Gerenciador de Tarefas](https://github.com/LauroAranha/Gerenciador-de-Tarefas)
 
 -📖✏️ Estudando e aprendendo: <img align="center" alt="Lauro.py" height="30" width="100"
@@ -15,7 +16,6 @@
             src="https://github-readme-stats.vercel.app/api?username=LauroAranha&show_icons=true&theme=github_dark">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroAranha&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
-<img src="https://cdn.discordapp.com/attachments/425724691680854016/964941027666440252/unknown.png">
 </div>
     
 <div style="display: inline_block"><br>
