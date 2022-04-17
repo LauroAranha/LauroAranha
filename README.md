@@ -1,22 +1,21 @@
 ## Olá! Meu nome é Lauro Aranha 👋 - Estudante de ADS e programador
+-⛏️ Atualmente estou trabalhando no projeto: [Gerenciador de Tarefas](https://github.com/LauroAranha/Gerenciador-de-Tarefas)
 
-- ⛏️ Atualmente estou trabalhando no projeto: [Gerenciador de
-Tarefas](https://github.com/LauroAranha/Gerenciador-de-Tarefas)
-
-- 📖✏️ Estudando e aprendendo: <img align="center" alt="Lauro.py" height="30" width="100"
+-📖✏️ Estudando e aprendendo: <img align="center" alt="Lauro.py" height="30" width="100"
     src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Lauro.py" height="30" width="100"
+				<img align="center" alt="Lauro.py" height="30" width="100"
     src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-
 </p>
 
 ## Linguagens e ferramentas que utilizo:
+
 <div align="left">
     <a href="https://github.com/LauroAranha">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=LauroAranha&show_icons=true&theme=github_dark">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroAranha&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
+<img src="https://cdn.discordapp.com/attachments/425724691680854016/964941027666440252/unknown.png">
 </div>
     
 <div style="display: inline_block"><br>
