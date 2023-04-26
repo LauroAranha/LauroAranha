@@ -1,44 +1,63 @@
-## Olá! Meu nome é Lauro Aranha 👋 - Estudante de ADS e programador
-<img src="https://cdn.discordapp.com/attachments/425724691680854016/964941027666440252/unknown.png">
--⛏️ Atualmente estou trabalhando no projeto: [Gerenciador de Tarefas](https://github.com/LauroAranha/Gerenciador-de-Tarefas)
+# Hi! My name is Lauro Aranha  👋
+# About me
+Software Developer and Analisys and Systems Development student, currently focused on improving my hard skills related to backend deveopment and software architecture and design patterns.
 
--📖✏️ Estudando e aprendendo: <img align="center" alt="Lauro.py" height="30" width="100"
-    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-				<img align="center" alt="Lauro.py" height="30" width="100"
-    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</p>
+# Languages and technologies that I am studying/working with:
 
-## Linguagens e ferramentas que utilizo:
-
-<div align="left">
-    <a href="https://github.com/LauroAranha">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=LauroAranha&show_icons=true&theme=github_dark">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroAranha&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
-</div>
-    
-<div style="display: inline_block"><br>
-    <img align="center" alt="Lauro.js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Lauro.js" height="30" width="100"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Lauro.jsx" height="30" width="100"
+## Front-end
+<div style="display: flex; flex-direction: row">
+    <img align="center" alt="reactjs badge" height="30" width="auto"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Lauro.py" height="30" width="100"
-        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Lauro.html" height="30" width="40"
+    <img align="center" alt="html badge" height="30" width="auto"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Lauro.css" height="30" width="40"
+    <img align="center" alt="css badge" height="30" width="auto"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Redes sociais/contato:
-
-<div>
-<a href=" mailto:lauroaranha.0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lauroaranha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	
-  ![Snake animation](https://github.com/lauroaranha/lauroaranha/blob/output/github-contribution-grid-snake.svg)
+## Back-end
+<div style="display: flex; flex-direction: row">
+    <img align="center" alt="java badge" height="30" width="auto"
+        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="javascript badge" height="30" width="auto"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="nodejs badge" height="30" width="auto"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="express badge" height="30" width="auto"
+        src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
+
+## Testing
+<div style="display: flex; flex-direction: row">
+    <img align="center" alt="jest badge" height="30" width="auto"
+        src="https://junit.org/junit4/images/junit5-banner.png">
+    <img align="center" alt="junit badge" height="30" width="auto"
+        src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+</div>
+
+## Database
+<div style="display: flex; flex-direction: row">
+    <img align="center" alt="mysql badge" height="30" width="auto"
+        src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+## Enviroment Setup Automation and miscellaneous
+<div style="display: flex; flex-direction: row">
+    <img align="center" alt="bash badge" height="30" width="auto"
+        src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</div>
+
+## Code Versioning/Management
+<div style="display: flex; flex-direction: row">
+    <img align="center" alt="github badge" height="30" width="auto"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="git badge" height="30" width="auto"
+        src="https://blog.geekhunter.com.br/wp-content/uploads/2020/08/comandos-git.png">
+</div>
+
+
+## Linkedin:
+<div>
+	<a href="https://www.linkedin.com/in/lauroaranha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</div>
+Feel free to contact me about anything!
 
