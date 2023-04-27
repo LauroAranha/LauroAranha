@@ -1,6 +1,6 @@
 # Hi! My name is Lauro Aranha  👋
 # About me
-Software Developer and Analisys and Systems Development student, currently focused on improving my hard skills related to backend deveopment and software architecture and design patterns.
+Software Developer and Analisys and Systems Development student, currently focused on improving my hard skills related to backend development and software architecture and design patterns.
 
 # Languages and technologies that I am studying/working with:
 
